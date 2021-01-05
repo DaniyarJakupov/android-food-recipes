@@ -1,4 +1,4 @@
-package com.daniyarjakupov.foodrecipes
+package com.daniyarjakupov.foodrecipes.ui.fragments.recipes
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

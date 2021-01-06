@@ -1,5 +1,6 @@
-package com.daniyarjakupov.foodrecipes
+package com.daniyarjakupov.foodrecipes.data
 
+import com.daniyarjakupov.foodrecipes.data.network.FoodRecipesApi
 import com.daniyarjakupov.foodrecipes.models.FoodRecipe
 import retrofit2.Response
 import javax.inject.Inject

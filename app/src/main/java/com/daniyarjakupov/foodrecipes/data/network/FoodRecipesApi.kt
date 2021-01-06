@@ -1,4 +1,4 @@
-package com.daniyarjakupov.foodrecipes
+package com.daniyarjakupov.foodrecipes.data.network
 
 import com.daniyarjakupov.foodrecipes.models.FoodRecipe
 import retrofit2.Response

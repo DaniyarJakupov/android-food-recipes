@@ -1,7 +1,7 @@
 package com.daniyarjakupov.foodrecipes.di
 
-import com.daniyarjakupov.foodrecipes.Constants
-import com.daniyarjakupov.foodrecipes.FoodRecipesApi
+import com.daniyarjakupov.foodrecipes.utils.Constants
+import com.daniyarjakupov.foodrecipes.data.network.FoodRecipesApi
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

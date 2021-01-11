@@ -1,4 +1,4 @@
-package com.daniyarjakupov.foodrecipes
+package com.daniyarjakupov.foodrecipes.viewmodels
 
 import android.app.Application
 import android.content.*

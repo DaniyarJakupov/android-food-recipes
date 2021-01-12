@@ -1,4 +1,4 @@
-package com.daniyarjakupov.foodrecipes
+package com.daniyarjakupov.foodrecipes.data.database.entities
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

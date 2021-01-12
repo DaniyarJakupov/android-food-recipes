@@ -13,5 +13,10 @@ class Constants {
         const val QUERY_INFO = "addRecipeInformation"
         const val QUERY_FILL = "fillIngredients"
         const val QUERY_API_KEY = "apiKey"
+
+        // ROOM DB
+        const val DATABASE_NAME = "recipes_database"
+        const val RECIPES_TABLE = "recipes_table"
+
     }
 }

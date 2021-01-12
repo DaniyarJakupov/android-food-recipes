@@ -11,7 +11,6 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import com.daniyarjakupov.foodrecipes.viewmodels.MainViewModel
 import com.daniyarjakupov.foodrecipes.adapters.RecipesAdapter
 import com.daniyarjakupov.foodrecipes.databinding.FragmentRecipesBinding
-import com.daniyarjakupov.foodrecipes.utils.Constants
 import com.daniyarjakupov.foodrecipes.utils.NetworkResult
 import com.daniyarjakupov.foodrecipes.viewmodels.RecipesViewModel
 import dagger.hilt.android.AndroidEntryPoint
